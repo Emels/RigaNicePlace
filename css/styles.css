@@ -10,7 +10,11 @@ h1{
   font-size:9em;
   color:red;
 }
-
+navbarNav{
+  padding:2
+  display:flex;
+  justify-content: space-evenly;
+}
 ul{
   list-style:none;
   padding:0;
