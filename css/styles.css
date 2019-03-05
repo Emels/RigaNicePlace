@@ -1,5 +1,12 @@
 body{
   font-family:calibri;
+  margin:0;
+}
+nav{
+  float: left;
+display: block;
+padding: 0;
+padding-left:13%;
 }
 
 h1,h2{
@@ -23,6 +30,7 @@ ul{
   padding:0;
   display:flex;
   justify-content:space-evenly;
+
 }
 ul:hover{
   font-size: 1.2em;
