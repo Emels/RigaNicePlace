@@ -7,14 +7,17 @@ h1,h2{
 }
 
 h1{
-  font-size:9em;
+  font-size:4em;
   color:red;
 }
-navbarNav{
-  padding:2
+nav{
+  list-style:none;
+  margin:0 2px;
+  padding:0
   display:flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
+
 ul{
   list-style:none;
   padding:0;
@@ -24,4 +27,7 @@ ul{
 ul:hover{
   font-size: 1.2em;
   transition: 0.6s ease;
+  }
+  li{
+    color:white;
   }
