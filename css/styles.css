@@ -10,12 +10,14 @@ h1{
   font-size:9em;
   color:red;
 }
-img{
-display: flex;
-justify-content: space-between;
-flex-direction: row;
-padding:0px ;
-margin:0 auto;
+navbarNav{
+  padding:2
+  display:flex;
+  justify-content: space-evenly;
+}
+.carousel-inner > .item > img {
+  width:640px;
+  height:360px;
 }
 ul{
   list-style:none;
