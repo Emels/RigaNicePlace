@@ -1,5 +1,9 @@
 body{
   font-family:calibri;
+  margin:0;
+}
+nav{
+
 }
 
 h1,h2{
@@ -7,25 +11,35 @@ h1,h2{
 }
 
 h1{
-  font-size:9em;
+  font-size:4em;
   color:red;
 }
-navbarNav{
-  padding:2
-  display:flex;
-  justify-content: space-evenly;
+nav{
+
+
+
+
+
 }
+
+
+
 .carousel-inner > .item > img {
   width:640px;
   height:360px;
 }
+
 ul{
   list-style:none;
   padding:0;
   display:flex;
   justify-content:space-evenly;
+
 }
 ul:hover{
   font-size: 1.2em;
   transition: 0.6s ease;
+  }
+  li{
+    color:white;
   }
