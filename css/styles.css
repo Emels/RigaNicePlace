@@ -15,6 +15,10 @@ navbarNav{
   display:flex;
   justify-content: space-evenly;
 }
+.carousel-inner > .item > img {
+  width:640px;
+  height:360px;
+}
 ul{
   list-style:none;
   padding:0;
