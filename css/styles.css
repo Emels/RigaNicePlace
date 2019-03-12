@@ -2,12 +2,21 @@ body{
   font-family:calibri;
   margin:0;
 }
-rigacarousel{
-left:0;
-top:0;
-position:fixed;
+.height-500px{
+  height:500px;
+}
+#heading{
+  position:absolute;
+  top:150px;
+  z-index:100;
+  width:100%;
+  padding: 0 auto;
 }
 
+.youtube{
+  display:flex;
+  justify-content: center;
+}
 form{
   padding-left:100px;
   padding-right:100px;
@@ -18,13 +27,14 @@ div.media{
 }
 
 h1,h2{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   text-align:center;
+  font-size:5em;
+  color:white;
+  text-shadow: -1px 0 black,0 1px black,1px 0 black, 0 -1px black;
 }
 
-h1{
-  font-size:4em;
-  color:red;
-}
+
 nav{
 positio
 
