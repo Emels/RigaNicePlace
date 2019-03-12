@@ -1,5 +1,5 @@
 $(document).ready(function(){
-$("button").click(function(){
+$("#btnsubmit").click(function(){
   alert("Message sent successfully!");
 });
 });
