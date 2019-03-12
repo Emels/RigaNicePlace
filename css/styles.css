@@ -3,12 +3,12 @@ body{
   font-family:calibri;
   margin:0;
 }
-rigacarousel{
+/*div.carousel{
 left:0;
 top:0;
 position:fixed;
 }
-
+*/
 form{
   padding-left:100px;
   padding-right:100px;
