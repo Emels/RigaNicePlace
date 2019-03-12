@@ -2,8 +2,19 @@ body{
   font-family:calibri;
   margin:0;
 }
-nav{
+rigacarousel{
+left:0;
+top:0;
+position:fixed;
+}
 
+form{
+  padding-left:100px;
+  padding-right:100px;
+}
+
+div.media{
+  padding-left:100px;
 }
 
 h1,h2{
@@ -15,13 +26,13 @@ h1{
   color:red;
 }
 nav{
-
+positio
 
 
 
 
 }carousel{
-  
+
 }
 
 
