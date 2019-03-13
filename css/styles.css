@@ -1,7 +1,16 @@
 body{
+  background-color:#E1E3E9;
   font-family:calibri;
   margin:0;
 }
+
+/*div.carousel{
+left:0;
+top:0;
+position:fixed;
+}
+*/
+
 .height-500px{
   height:500px;
 }
@@ -17,6 +26,7 @@ body{
   display:flex;
   justify-content: center;
 }
+
 form{
   padding-left:100px;
   padding-right:100px;
@@ -35,11 +45,18 @@ h1,h2{
 }
 
 
-nav{
-positio
+#question{
+  font-size:4em;
+  color:red;
+}
+#aboutcontent{
+  flex-direction:row;
 
 
-
+}
+.smallerheader{
+  font-size:3em;
+}
 
 }carousel{
 
@@ -53,14 +70,11 @@ rigacarousel{
 ul{
   list-style:none;
   padding:0;
-  display:flex;
+
   justify-content:space-evenly;
 
 }
 ul:hover{
   font-size: 1.2em;
   transition: 0.6s ease;
-  }
-  li{
-    color:white;
   }
