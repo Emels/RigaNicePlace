@@ -11,7 +11,9 @@ top:0;
 position:fixed;
 }
 */
-
+div.card-columns{
+  top:10px;
+}
 
 .height-500px{
   height:500px;
