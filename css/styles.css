@@ -2,6 +2,7 @@ body{
   background-color:#E1E3E9;
   font-family:calibri;
   margin:0;
+
 }
 
 /*div.carousel{
@@ -11,13 +12,14 @@ position:fixed;
 }
 */
 
+
 .height-500px{
   height:500px;
 }
 #heading{
   position:absolute;
   top:150px;
-  z-index:100;
+  z-index:1;
   width:100%;
   padding: 0 auto;
 }
@@ -25,6 +27,7 @@ position:fixed;
 .youtube{
   display:flex;
   justify-content: center;
+
 }
 
 form{
@@ -32,8 +35,17 @@ form{
   padding-right:100px;
 }
 
-div.media{
+div#articlelist{
   padding-left:100px;
+  padding-top:50px;
+}
+div.youtube{
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+div.media-body{
+
 }
 
 h1,h2{
@@ -58,12 +70,12 @@ h1,h2{
   font-size:3em;
 }
 
-}carousel{
+carousel{
 
 }
 
 
-rigacarousel{
+#rigacarousel{
 
 }
 
