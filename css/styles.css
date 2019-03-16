@@ -24,6 +24,10 @@ div.card-columns{
   z-index:1;
   width:100%;
   padding: 0 auto;
+  width:900px;
+  justify-content:center;
+  
+
 }
 
 .youtube{
@@ -72,8 +76,8 @@ h1,h2{
   font-size:3em;
 }
 
-carousel{
-
+.carousel-control-prev{
+z-index:5;
 }
 
 
