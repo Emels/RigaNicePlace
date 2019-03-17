@@ -101,6 +101,26 @@ z-index:5;
 
 }
 
+.food {
+  padding: 20px;
+}
+
+.food-paragraph {
+  width: 50vw;
+}
+.img-style {
+  float: right;
+}
+
+
+h3 {
+  color: #ed1a3b;
+}
+
+h2 {
+  color: #ed1a3b;
+}
+
 ul{
   list-style:none;
   padding:0;
