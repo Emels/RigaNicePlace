@@ -120,3 +120,11 @@ ul:hover{
   h3 { font-style:italic;
   color:#374EC0;
   }
+
+  # Attraction styles #
+  h2.foodheading { font-style:oblique;
+  color:#590718;
+  }
+  h3 { font-style:italic;
+  color:#374EC0;
+  }
