@@ -26,14 +26,10 @@ div.card-columns{
 .height-500px{
 
 }
-.form-check{
-  margin-left:25px;
-}
-.btn{
 
-  margin-left:100px;
 }
-h1.smallerheader{
+
+h1.question{
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   text-align:center;
   font-size:5em;
@@ -62,7 +58,7 @@ h1.smallerheader{
 
 }
 
-.form-group{
+.form1{
   padding-top:30px;
   padding-left:100px;
   padding-right:100px;
@@ -77,25 +73,12 @@ div.youtube{
   padding-bottom:50px;
 }
 
-div.media-body{
-
-}
 
 
-
-
-#question{
-  font-size:4em;
-  color:red;
-}
 #aboutcontent{
   flex-direction:row;
-
-
 }
-.smallerheader{
-  font-size:3em;
-}
+
 
 .carousel-control-prev{
 z-index:5;
