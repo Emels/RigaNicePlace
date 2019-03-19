@@ -29,13 +29,7 @@ div.card-columns{
 
 }
 
-div.question{
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  text-align:center;
-  font-size:5em;
-  color:white;
-  text-shadow: -1px 0 black,0 1px black,1px 0 black, 0 -1px black;
-}
+
 
 #heading{
   font-size:30px;
@@ -56,6 +50,13 @@ div.question{
   display:flex;
   justify-content: center;
 
+}
+div.question{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align:center;
+  font-size:5em;
+  color:white;
+  text-shadow: -1px 0 black,0 1px black,1px 0 black, 0 -1px black;
 }
 
 .form1{
