@@ -118,7 +118,7 @@ ul:hover{
   width: 50vw;
   }
 
- #content {
+ .content {
   margin: 0 50px;
   justify-content:space-evenly;
  }
