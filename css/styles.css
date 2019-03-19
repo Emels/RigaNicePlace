@@ -26,6 +26,13 @@ div.card-columns{
 .height-500px{
 
 }
+.form-check{
+  margin-left:25px;
+}
+.btn{
+
+  margin-left:100px;
+}
 h1.smallerheader{
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   text-align:center;
